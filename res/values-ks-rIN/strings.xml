@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">اپلیکیشن چھنء انسٹال گمژ.</string>
+<string name="all_apps_search_bar_hint">ژانڈن کرییو اپلیکیشن</string>
+<string name="all_apps_loading_message">"لوڈ گسن اپلیکیشن ..."</string>
+<string name="all_apps_no_search_results">كه اپلیکیشن کاءم نہ لبن رلن \"<xliff:g id="query" example="Android">%1$s</xliff:g>\"</string>
+<string name="all_apps_search_market_message">"گژھیو <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"خائریج"</string>
+<string name="quit">"ترک"</string>
+<string name="quit_power_save_mode_message">" نیبر نیریو واریہاہ بچاونک موڈس منز؟"</string>
+<string name="workspace_cancel_save_edit">واپس كر</string>
+<string name="workspace_confirm_save_edit">"محفوظ تھايو"</string>
+<string name="save_edit_message">" محفوظ تھایو پنن بدلاو؟"</string>
+<string name="default_app_title">جوڈن</string>
+<string name="battery_level">" روزمت بیٹری <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

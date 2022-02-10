@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"Hindi naka-install ang app."</string>
+<string name="all_apps_search_bar_hint">"Apps sa Paghahanap"</string>
+<string name="all_apps_loading_message">"Naglo-load ng mga app…"</string>
+<string name="all_apps_no_search_results">"Walang nahanap na app na tumutugma sa \"<xliff:g id="QUERY">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"Pumunta sa <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"Kanselahin"</string>
+<string name="quit">"Pabayaan"</string>
+<string name="quit_power_save_mode_message">"Lumabas sa ultra power saving mode?"</string>
+<string name="workspace_cancel_save_edit">"I-discard"</string>
+<string name="workspace_confirm_save_edit">"I-save"</string>
+<string name="save_edit_message">"I-save ang iyong mga pagbabago?"</string>
+<string name="default_app_title">"Idagdag"</string>
+<string name="battery_level">"Natitirang Baterya <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"Baguhin"</string>
+<string name="delete">Burahin</string>
+</resources>

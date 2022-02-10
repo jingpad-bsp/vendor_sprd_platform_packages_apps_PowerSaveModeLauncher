@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"अनुप्रयोगः स्थापितः नास्ति।"</string>
+<string name="all_apps_search_bar_hint">"अनुप्रयोगान् अन्विषतु"</string>
+<string name="all_apps_loading_message">"अनुप्रयोगान् स्थापयति..."</string>
+<string name="all_apps_no_search_results">समानः अनुप्रयोगः न प्राप्तः <xliff:g id="query" example="Android">%1$s</xliff:g>""</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> प्रति गच्छतु"</string>
+<string name="workspace_cancel_quit_power_save_mode">"निरस्यताम्"</string>
+<string name="quit">"त्यजतु"</string>
+<string name="quit_power_save_mode_message">"अतिविशिष्ट-विद्युद्रक्षणावस्थायाः निर्गच्छति?"</string>
+<string name="workspace_cancel_save_edit">"त्यजतु"</string>
+<string name="workspace_confirm_save_edit">"सक्ष्यताम्"</string>
+<string name="save_edit_message">"स्वपरिवर्तनानि रक्षति?"</string>
+<string name="default_app_title">"योजयतु"</string>
+<string name="battery_level">"अवशिष्टः विद्युत्कोषः <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"Ứng dụng chưa được cài đặt."</string>
+<string name="all_apps_search_bar_hint">"Tìm kiếm trên Apps"</string>
+<string name="all_apps_loading_message">"Đang tải ứng dụng…"</string>
+<string name="all_apps_no_search_results">"Không tìm thấy ứng dụng nào phù hợp với \"<xliff:g id="QUERY">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"Chuyển đến <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"Hủy"</string>
+<string name="quit">"Thoát"</string>
+<string name="quit_power_save_mode_message">"Thoát khỏi chế độ siêu tiết kiệm pin?"</string>
+<string name="workspace_cancel_save_edit">"Hủy"</string>
+<string name="workspace_confirm_save_edit">"Lưu"</string>
+<string name="save_edit_message">"Lưu thay đổi của bạn?"</string>
+<string name="default_app_title">"Thêm"</string>
+<string name="battery_level">"Lượng pin còn lại <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">Chỉnh sửa</string>
+<string name="delete">Xóa</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"App is niet geïnstalleerd."</string>
+<string name="all_apps_search_bar_hint">"Zoeken in Google Apps"</string>
+<string name="all_apps_loading_message">"Apps laden&#8230;"</string>
+<string name="all_apps_no_search_results">"Geen apps gevonden die overeenkomen met \'<xliff:g id="query" example="Android">%1$s</xliff:g>\'"</string>
+<string name="all_apps_search_market_message">"Ga naar <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"Beëindig"</string>
+<string name="quit">"stoppen"</string>
+<string name="workspace_cancel_save_edit">"Weggooien"</string>
+<string name="workspace_confirm_save_edit">"Bewaar"</string>
+<string name="save_edit_message">"Uw wijzigingen bewaren?"</string>
+<string name="default_app_title">"Toevoegen"</string>
+<string name="battery_level">"Resterende acculading <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"Bewerk"</string>
+<string name="delete">Verwijder</string>
+<string name="quit_power_save_mode_message">"Ultra-energiebesparingsmodus afsluiten?"</string>
+</resources>

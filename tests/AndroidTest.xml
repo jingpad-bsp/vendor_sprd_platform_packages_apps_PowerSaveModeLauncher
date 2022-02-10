@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration description="Runs PowerSaveModeLauncher Test Cases.">
+    <option name="test-suite-tag" value="apct" />
+    <option name="test-suite-tag" value="apct-instrumentation" />
+    <target_preparer class="com.android.tradefed.targetprep.suite.SuiteApkInstaller">
+        <option name="cleanup-apks" value="true" />
+        <option name="test-file-name" value="PowerSaveModeLauncherTests.apk" />
+    </target_preparer>
+
+    <option name="test-tag" value="PowerSaveModeLauncherTests" />
+    <test class="com.android.tradefed.testtype.AndroidJUnitTest" >
+        <option name="package" value="com.sprd.powersavemodelauncher.tests" />
+        <option name="runner" value="android.support.test.runner.AndroidJUnitRunner" />
+        <option name="hidden-api-checks" value="false"/>
+    </test>
+</configuration>

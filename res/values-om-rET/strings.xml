@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"Appilikeeshiinii hi\n haaroomne dha."</string>
+<string name="all_apps_search_bar_hint">"Applikeeshiinoota barbaaduu"</string>
+<string name="all_apps_loading_message">"Fayyadaman fe\'aa jira&#8230;"</string>
+<string name="all_apps_no_search_results">"Appilkeeshiinoota firoomuu hin argamne \"<xliff:g id="query" example="Android">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"Gara <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"Balleessi"</string>
+<string name="quit">"Keessa bahi"</string>
+<string name="quit_power_save_mode_message">"Muudiin bay\'inaan humna qussachuu haa dhiisamuu?"</string>
+<string name="workspace_cancel_save_edit">"Gatuu"</string>
+<string name="workspace_confirm_save_edit">"Olkaa’I"</string>
+<string name="save_edit_message">"Jijjiira kessani olkaa\'i"</string>
+<string name="default_app_title">"Dabaluu"</string>
+<string name="battery_level">"Baatirii hafu <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

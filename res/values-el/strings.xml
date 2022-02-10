@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"Η εφαρμογή δεν έχει εγκατασταθεί."</string>
+<string name="all_apps_search_bar_hint">"Αναζήτηση στις Εφαρμογές Google"</string>
+<string name="all_apps_loading_message">"Φόρτωση εφαρμογών…"</string>
+<string name="all_apps_no_search_results">"Δεν βρέθηκαν εφαρμογές αντιστοίχισης για \"<xliff:g id="QUERY">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"Μετάβαση σε <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">Ακύρωση</string>
+<string name="quit">έξοδος</string>
+<string name="quit_power_save_mode_message">"Έξοδος από τη λειτουργία υψηλής εξοικονόμησης ενέργειας;"</string>
+<string name="workspace_cancel_save_edit">"Απόρριψη"</string>
+<string name="workspace_confirm_save_edit">Αποθήκευση</string>
+<string name="save_edit_message">"Να αποθ. οι αλλαγές σας;"</string>
+<string name="default_app_title">"Προσθήκη"</string>
+<string name="battery_level">"Υπολειπόμενη μπαταρία <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">Επεξεργασία</string>
+<string name="delete">Διαγραφή</string>
+</resources>

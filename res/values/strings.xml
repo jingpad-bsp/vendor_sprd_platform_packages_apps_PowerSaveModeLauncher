@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General -->
+    <skip />
+    <!-- Application name -->
+    <string name="app_name">PowerSaveModeLauncher</string>
+    <!-- Displayed when user selects a shortcut for an app that was uninstalled [CHAR_LIMIT=none]-->
+    <string name="activity_not_found">App isn\'t installed.</string>
+
+    <!-- All Apps -->
+    <!-- Search bar text in the apps view. [CHAR_LIMIT=50] -->
+    <string name="all_apps_search_bar_hint">Search Apps</string>
+    <!-- Loading apps text. [CHAR_LIMIT=50] -->
+    <string name="all_apps_loading_message">Loading Apps&#8230;</string>
+    <!-- No-search-results text. [CHAR_LIMIT=50] -->
+    <string name="all_apps_no_search_results">No Apps found matching \"<xliff:g id="query" example="Android">%1$s</xliff:g>\"</string>
+    <!-- Search market text.  This is a format string where the first argument is the name of the activity
+         handling the search.  The format string does not need to handle both of these arguments. [CHAR_LIMIT=50] -->
+    <string name="all_apps_search_market_message">Go to <xliff:g id="query" example="Play Store">%1$s</xliff:g></string>
+
+
+
+    <!-- Skeleton string format for displaying the date. -->
+    <string name="abbrev_wday_month_day_no_year" translatable="false">EEEMMMd</string>
+
+    <!-- Skeleton string format for displaying the time in 12-hour format. -->
+    <string name="clock_12hr_format" translatable="false">hm</string>
+
+    <!-- Skeleton string format for displaying the time in 24-hour format. -->
+    <string name="clock_24hr_format" translatable="false">Hm</string>
+
+    <!-- Time format strings for fall-back clock widget -->
+    <string name="launcher_widget_12_hours_format" translatable="false">h\uee01mm</string>
+    <!-- Time format strings for fall-back clock widget -->
+    <string name="launcher_widget_24_hours_format" translatable="false">kk\uee01mm</string>
+
+    <string name="workspace_cancel_quit_power_save_mode">Cancel</string>
+    <string name="quit">Quit</string>
+    <string name="quit_power_save_mode_message">Exit Ultra power saving mode?</string>
+
+    <string name="workspace_cancel_save_edit">Discard</string>
+    <string name="workspace_confirm_save_edit">Save</string>
+    <string name="save_edit_message">Save your changes?</string>
+
+    <string name="default_app_title">Add</string>
+    <string name="battery_level">Remaining Battery <xliff:g id="number" example="5">%1$s</xliff:g></string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>

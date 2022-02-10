@@ -1,0 +1,54 @@
+-keep class com.sprd.powersavemodelauncher.allapps.AllAppsBackgroundDrawable {
+  public void setAlpha(int);
+  public int getAlpha();
+}
+
+-keep class com.sprd.powersavemodelauncher.BaseRecyclerViewFastScrollBar {
+  public void setThumbWidth(int);
+  public int getThumbWidth();
+  public void setTrackWidth(int);
+  public int getTrackWidth();
+}
+
+-keep class com.sprd.powersavemodelauncher.BaseRecyclerViewFastScrollPopup {
+  public void setAlpha(float);
+  public float getAlpha();
+}
+
+-keep class com.sprd.powersavemodelauncher.FastBitmapDrawable {
+  public void setDesaturation(float);
+  public float getDesaturation();
+  public void setBrightness(float);
+  public float getBrightness();
+}
+
+-keep class com.sprd.powersavemodelauncher.PowerSaveWorkspace {
+  public float getBackgroundAlpha();
+  public void setBackgroundAlpha(float);
+}
+
+# Proguard will strip new callbacks in LauncherApps.Callback from
+# WrappedCallback if compiled against an older SDK. Don't let this happen.
+-keep class com.sprd.powersavemodelauncher.compat.** {
+  *;
+}
+
+-keep class com.sprd.powersavemodelauncher.R*
+-keepclassmembers class **.R$* {
+    public static <fields>;
+}
+
+-keep class com.sprd.powersavemodelauncher.PowerSaveLauncher {
+ *;
+}
+
+-keep class com.sprd.powersavemodelauncher.FastBitmapDrawable {
+ *;
+}
+
+
+
+
+
+
+

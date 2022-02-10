@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"برنامه نصب نشده است."</string>
+<string name="all_apps_search_bar_hint">"جستجوی Apps"</string>
+<string name="all_apps_loading_message">"درحال بارگیری برنامه‌‌ها…"</string>
+<string name="all_apps_no_search_results">"هیچ برنامه‌ای در مطابقت با «<xliff:g id="QUERY">%1$s</xliff:g>» پیدا نشد"</string>
+<string name="all_apps_search_market_message">"به <xliff:g id="query" example="Play Store">‪‎%1$s‬</xliff:g> بروید"</string>
+<string name="workspace_cancel_quit_power_save_mode">انصراف</string>
+<string name="quit">"خروج"</string>
+<string name="quit_power_save_mode_message">"خروج از حالت صرفه‌جویی فوق‌العاده در برق صورت بگیرد؟"</string>
+<string name="workspace_cancel_save_edit">"صرف‌نظر کردن"</string>
+<string name="workspace_confirm_save_edit">"ذخیره"</string>
+<string name="save_edit_message">"تغییرات خود را ذخیره می‌کنید؟"</string>
+<string name="default_app_title">افزایش</string>
+<string name="battery_level">"شارژ باقی‌مانده باتری <xliff:g id="number" example="5">‪‎%1$s‬</xliff:g>"</string>
+<string name="edit">"ویرایش..."</string>
+<string name="delete">حذف</string>
+</resources>

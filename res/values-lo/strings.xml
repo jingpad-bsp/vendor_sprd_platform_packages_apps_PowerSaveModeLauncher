@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"ແອັບບໍ່ໄດ້ຖືກຕິດຕັ້ງ."</string>
+<string name="all_apps_search_bar_hint">ໂປແກມການຄົ້ນຫາ</string>
+<string name="all_apps_loading_message">"ກຳລັງໂຫຼດແອັບ&#8230;"</string>
+<string name="all_apps_no_search_results">"ບໍ່ພົບແອັບທີ່ກົງກັນກັບ \"<xliff:g id="query" example="Android">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"ໄປທີ່ <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"ຍົກເລີກ"</string>
+<string name="quit">"ອອກ"</string>
+<string name="quit_power_save_mode_message">"ອອກຈາກໂໝດປະຫຍັດແບບອັລຕຣາບໍ?"</string>
+<string name="workspace_cancel_save_edit">"ຍົກເລີກ"</string>
+<string name="workspace_confirm_save_edit">"ບັນທຶກ"</string>
+<string name="save_edit_message">"ບັນທຶກການປ່ຽນແປງຂອງທ່ານບໍ?"</string>
+<string name="default_app_title">"ເພີ່ມ"</string>
+<string name="battery_level">"ແບັດເຕີຣີທີ່ເຫຼືອຢູ່ <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"ແກ້ໄຂ"</string>
+<string name="delete">"​ລຶບ"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">Aplikacioni nuk është instaluar.</string>
+<string name="all_apps_search_bar_hint">Kërko aplikacionet</string>
+<string name="all_apps_loading_message">"Duke ngarkuar aplikacionet&#8230;"</string>
+<string name="all_apps_no_search_results">"Nuk u gjet asnjë aplikacion që përputhet me \"<xliff:g id="query" example="Android">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"Shko te <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">Anulo</string>
+<string name="quit">Mbyll</string>
+<string name="workspace_cancel_save_edit">Hiq</string>
+<string name="workspace_confirm_save_edit">Ruaj</string>
+<string name="save_edit_message">"Të ruhen ndryshimet?"</string>
+<string name="default_app_title">Shto</string>
+<string name="battery_level">"Bateria e mbetur <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">Ndrysho</string>
+<string name="delete">Fshi</string>
+<string name="quit_power_save_mode_message">"Të dilet nga modaliteti Ultra kursim energjie?"</string>
+</resources>

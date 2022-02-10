@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"ไม่ได้ติดตั้งแอป"</string>
+<string name="all_apps_search_bar_hint">"ค้นหา Apps"</string>
+<string name="all_apps_loading_message">"กำลังโหลดแอป…"</string>
+<string name="all_apps_no_search_results">"ไม่พบแอปที่ตรงกับ \"<xliff:g id="QUERY">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"ไปที่ <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">ยกเลิก</string>
+<string name="quit">"ออก"</string>
+<string name="quit_power_save_mode_message">"ออกจากโหมดประหยัดไฟระดับสูงหรือไม่"</string>
+<string name="workspace_cancel_save_edit">"ยกเลิก"</string>
+<string name="workspace_confirm_save_edit">บันทึก</string>
+<string name="save_edit_message">"บันทึกการเปลี่ยนแปลงของคุณหรือไม่"</string>
+<string name="default_app_title">"เพิ่ม"</string>
+<string name="battery_level">"แบตเตอรี่เหลืออยู่ <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"แก้ไข"</string>
+<string name="delete">"ลบ"</string>
+</resources>

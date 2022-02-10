@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">Aplikazioa ez dago instalatua</string>
+<string name="all_apps_search_bar_hint">Bilatu aplikazioak</string>
+<string name="all_apps_loading_message">Aplikazioak kargatzen&#8230;</string>
+<string name="all_apps_no_search_results">Ez da aurkitu <xliff:g id="query" example="Android">%1$s</xliff:g> sistemarekin bat datorren aplikaziorik.</string>
+<string name="all_apps_search_market_message">Joan hona: <xliff:g id="query" example="Play Store">%1$s</xliff:g></string>
+<string name="workspace_cancel_quit_power_save_mode">"Utzi"</string>
+<string name="quit">"Irten"</string>
+<string name="quit_power_save_mode_message">Irten bateria aurrezteko ultra modutik?</string>
+<string name="workspace_cancel_save_edit">Baztertu</string>
+<string name="workspace_confirm_save_edit">Gorde</string>
+<string name="save_edit_message">Aldaketak gorde nahi dituzu?</string>
+<string name="default_app_title">Gehitu</string>
+<string name="battery_level">Geratzen den bateria: <xliff:g id="number" example="5">%1$s</xliff:g></string>
+<string name="edit">"Editatu"</string>
+<string name="delete">"Ezabatu"</string>
+</resources>

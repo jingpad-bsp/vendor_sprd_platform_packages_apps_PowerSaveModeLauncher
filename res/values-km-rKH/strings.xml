@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">កម្មវិធីមិនទាន់ដំឡើង។</string>
+<string name="all_apps_search_bar_hint">ស្វែងរកកម្មវិធី</string>
+<string name="all_apps_loading_message">"កំពុង​ផ្ទុក​កម្មវិធី&#8230;"</string>
+<string name="all_apps_no_search_results">"រកមិនឃើញកម្មវិធីណាដែលផ្គូផ្គង \"<xliff:g id="query" example="Android">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"ចូលទៅកាន់ <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">បោះបង់</string>
+<string name="quit">"ចាកចេញ"</string>
+<string name="quit_power_save_mode_message">"ចាក​ចេញ​ពីទម្រង់​សន្សំ​សំចៃ​ខ្លាំង?"</string>
+<string name="workspace_cancel_save_edit">"បោះបង់"</string>
+<string name="workspace_confirm_save_edit">រក្សាទុក</string>
+<string name="save_edit_message">"តើរក្សាទុកការផ្លាស់ប្ដូររបស់អ្នកទេ?"</string>
+<string name="default_app_title">"បន្ថែម"</string>
+<string name="battery_level">"ថ្មដែលនៅសល់ <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

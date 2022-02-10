@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">ਅਨੁਪ੍ਰਯੋਗ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ।</string>
+<string name="all_apps_search_bar_hint">ਐਪਸ ਖੋਜੋ</string>
+<string name="all_apps_loading_message">"ਐਪਾਂ ਲੋਡ ਕਰ ਰਿਹਾ ਹੈ..."</string>
+<string name="all_apps_no_search_results">""<xliff:g id="query" example="Android">%1$s</xliff:g>" ਨਾਲ ਮੇਲ ਕਰਦੀਆਂ ਕੋਈ ਐਪਾਂ ਨਹੀਂ ਮਿਲੀਆਂ"</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> \'ਤੇ ਜਾਓ"</string>
+<string name="workspace_cancel_quit_power_save_mode">ਰੱਦ ਕਰੋ</string>
+<string name="quit">ਛੱਡੋ</string>
+<string name="quit_power_save_mode_message">"ਕੀ ਤੁਸੀਂ ਅਲਟ੍ਰਾ ਸੇਵਿੰਗ ਮੋਡ ਵਿੱਚੋਂ ਬਾਹਰ ਆਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+<string name="workspace_cancel_save_edit">ਹਟਾਉ</string>
+<string name="workspace_confirm_save_edit">ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+<string name="save_edit_message">"ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਬਦਲਾਅ ਸੇਵ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+<string name="default_app_title">ਸ਼ਾਮਿਲ ਕਰੋ</string>
+<string name="battery_level">"ਬਾਕੀ ਬੈਟਰੀ <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

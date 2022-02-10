@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"Програму не встановлено."</string>
+<string name="all_apps_search_bar_hint">"Служби для пош."</string>
+<string name="all_apps_loading_message">"Завантаження додатків…"</string>
+<string name="all_apps_no_search_results">"Немає додатків для запиту \"<xliff:g id="QUERY">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"Перейди до <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"    скасувати"</string>
+<string name="quit">Вийти</string>
+<string name="quit_power_save_mode_message">"Вийти з режиму максимального енергозбереження?"</string>
+<string name="workspace_cancel_save_edit">"Відхилити"</string>
+<string name="workspace_confirm_save_edit">"Використ. цей запис"</string>
+<string name="save_edit_message">"Зберегти зміни?"</string>
+<string name="default_app_title">"додавати"</string>
+<string name="battery_level">"Рівень заряду акумулятора: <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"Редагувати"</string>
+<string name="delete">"Видалити"</string>
+</resources>

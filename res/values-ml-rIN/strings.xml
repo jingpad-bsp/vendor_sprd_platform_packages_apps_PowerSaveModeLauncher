@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"ആപ്പ് ഇന്‍സ്റ്റാള്‍ ചെയ്തിട്ടില്ല."</string>
+<string name="all_apps_search_bar_hint">"അപ്ലിക്കേഷനുകള്‍ തിരയുക"</string>
+<string name="all_apps_loading_message">"ആപ്ലിക്കേഷനുകൾ ലോഡുചെയ്യുന്നു ..."</string>
+<string name="all_apps_no_search_results">"ആപ്പുകളൊന്നും "<xliff:g id="query" example="Android">%1$s</xliff:g>" -ന് യോജിക്കുന്നില്ല"</string>
+<string name="all_apps_search_market_message">"പോകുക<xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"റദ്ദാക്കുക"</string>
+<string name="quit">"പുറത്ത്കടക്കുക"</string>
+<string name="quit_power_save_mode_message">"അൾട്രാ പവർ സേവിംഗ് മോഡിൽനിന്ന് പുറത്തുകടക്കണോ?"</string>
+<string name="workspace_cancel_save_edit">"ഉപേക്ഷിക്കുക"</string>
+<string name="workspace_confirm_save_edit">"സൂക്ഷിക്കുക"</string>
+<string name="save_edit_message">"നിങ്ങളുടെ മാറ്റങ്ങൾ സേവ് ചെയ്യണോ?"</string>
+<string name="default_app_title">"ചേര്‍ക്കുക"</string>
+<string name="battery_level">"ശേഷിക്കുന്ന ബാറ്ററി<xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

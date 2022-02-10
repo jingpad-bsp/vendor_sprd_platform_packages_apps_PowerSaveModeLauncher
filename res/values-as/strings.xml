@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"এপ্প ইনষ্টল হোৱা নাই"</string>
+<string name="all_apps_search_bar_hint">"এপ্প সন্ধান"</string>
+<string name="all_apps_loading_message">"এপ্পচ লোডিং কৰি আছে&#8230;"</string>
+<string name="all_apps_no_search_results">"কোনো মিলা এপ্প পোৱা নাই \"<xliff:g id="query" example="Android">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"ইয়ালৈ যাওক <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"নাকচ"</string>
+<string name="quit">"পৰিত্যাগ কৰক"</string>
+<string name="quit_power_save_mode_message">"আল্ট্ৰা পাৱাৰ চেভিং মোডৰ পৰা প্ৰস্থান কৰিবনে?"</string>
+<string name="workspace_cancel_save_edit">"অগ্ৰাহ্য"</string>
+<string name="workspace_confirm_save_edit">"সংৰক্ষণ কৰা "</string>
+<string name="save_edit_message">"আপোনাৰ সলনিসমূহ চেভ কৰক?"</string>
+<string name="default_app_title">"যোগ"</string>
+<string name="battery_level">"বাকী থকা বেটাৰী <xliff:g id="number"  example="5">%1$s</xliff:g>"</string>
+<string name="edit">"সম্পাদনা"</string>
+<string name="delete">"মচি দিয়া"</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"యాప్ ఇన్స్టాల్ చేయబడలేదు."</string>
+<string name="all_apps_search_bar_hint">"అప్లికేషన్లను వెతకండి"</string>
+<string name="all_apps_loading_message">"యాప్స్ లోడ్ అవుతున్నాయి..."</string>
+<string name="all_apps_no_search_results">""<xliff:g id="query" example="Android">%1$s</xliff:g>కు జత అయ్యే యాప్స్ కనుగొనబడలేదు""</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> కు వెళ్ళండి"</string>
+<string name="workspace_cancel_quit_power_save_mode">రద్దు</string>
+<string name="quit">"క్విట్"</string>
+<string name="quit_power_save_mode_message">"అల్ట్రా పవర్ సేవింగ్ మోడ్ నుండి బయటకు రావాలా?"</string>
+<string name="workspace_cancel_save_edit">"డిస్కార్డ్"</string>
+<string name="workspace_confirm_save_edit">"సేవ్"</string>
+<string name="save_edit_message">"మీ మార్పులను సేవ్ చేయాలా?"</string>
+<string name="default_app_title">"కలుపు"</string>
+<string name="battery_level">"మిగిలిన బ్యాటరీ <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

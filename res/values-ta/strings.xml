@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"பயன்பாடு நிறுவப்படவில்லை."</string>
+<string name="all_apps_search_bar_hint">"தேடல் ஆப்ஸ்கள்"</string>
+<string name="all_apps_loading_message">"பயன்பாடுகள் ஏற்றப்படுகிறது..."</string>
+<string name="all_apps_no_search_results">" \"<xliff:g id="query" example="Android">%1$s</xliff:g>\"ந க்கு இணையான பயன்பாடுகள் எதுவும் இல்லை"</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> செல்க"</string>
+<string name="workspace_cancel_quit_power_save_mode">நிராகரி</string>
+<string name="quit">"வெளியேறு"</string>
+<string name="quit_power_save_mode_message">"அல்ட்ர பவர் சேமிப்பு முறையிலிருந்து வெளியேற வேண்டுமா?"</string>
+<string name="workspace_cancel_save_edit">நிராகரிக்கவும்</string>
+<string name="workspace_confirm_save_edit">"சேமி"</string>
+<string name="save_edit_message">"மாற்றங்களைச் சேமிக்க வேண்டுமா?"</string>
+<string name="default_app_title">சேர்</string>
+<string name="battery_level">"மீதமுள்ள பேட்டரி <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"திருத்து"</string>
+<string name="delete">"நீக்கு"</string>
+</resources>

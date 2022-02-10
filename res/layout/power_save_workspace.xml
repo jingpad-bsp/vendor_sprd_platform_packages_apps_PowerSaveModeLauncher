@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sprd.powersavemodelauncher.PowerSaveWorkspace
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/edit_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/power_save_workspace_margin_vertical"
+            android:layout_marginStart="@dimen/power_save_workspace_margin_horizontal"
+            android:layout_alignParentStart="true"
+            android:src="@drawable/power_save_edit"
+            android:contentDescription="@string/edit"/>
+
+        <ImageView
+            android:id="@+id/quit_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginTop="@dimen/power_save_workspace_margin_vertical"
+            android:layout_marginEnd="@dimen/power_save_workspace_margin_horizontal"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/power_save_quit"
+            android:contentDescription="@string/quit"/>
+    </RelativeLayout>
+
+    <include
+        layout="@layout/launcher_status_view"
+        android:id="@+id/workspace_status"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop = "@dimen/launcher_status_view_top"
+        android:layout_gravity = "top|center_horizontal"/>
+
+    <GridView
+        android:id="@+id/app_list_grid_view"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:numColumns="@integer/grid_view_column_num"
+        android:layout_gravity="center|bottom"
+        android:layout_marginTop="@dimen/grid_view_top"
+        android:verticalSpacing="@dimen/grid_view_line_space"
+        android:horizontalSpacing="@dimen/grid_items_padding"
+        />
+</com.sprd.powersavemodelauncher.PowerSaveWorkspace>

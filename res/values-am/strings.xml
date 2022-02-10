@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"መተግበሪያ አልተጫነም።"</string>
+<string name="all_apps_search_bar_hint">"በዝርዝሩ ውስጥ ምንም እውቂያዎች የሉም"</string>
+<string name="all_apps_loading_message">"መተግበሪያዎችን በመጫን ላይ…"</string>
+<string name="all_apps_no_search_results">"ከ«<xliff:g id="QUERY">%1$s</xliff:g>» ጋር የሚዛመዱ ምንም መተግበሪያዎች አልተገኙም"</string>
+<string name="all_apps_search_market_message">"ወደ <xliff:g id="query" example="Play Store">%1$s</xliff:g> ይሂዱ"</string>
+<string name="workspace_cancel_quit_power_save_mode">ሰርዝ</string>
+<string name="quit">"አቁም"</string>
+<string name="quit_power_save_mode_message">"ከልዕለ ኃይል ቁጠባ ሁነታ ይወጡ?"</string>
+<string name="workspace_cancel_save_edit">"ጣለው"</string>
+<string name="workspace_confirm_save_edit">አስቀምጥ</string>
+<string name="save_edit_message">"ለውጦችዎ ይቀመጡ?"</string>
+<string name="default_app_title">"አክል"</string>
+<string name="battery_level">"ቀሪ ባትሪ <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"አርትዕ"</string>
+<string name="delete">"አጥፋ"</string>
+</resources>

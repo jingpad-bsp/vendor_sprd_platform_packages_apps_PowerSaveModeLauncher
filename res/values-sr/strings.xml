@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"Апликација није инсталирана."</string>
+<string name="all_apps_search_bar_hint">"Претражите Google Apps"</string>
+<string name="all_apps_loading_message">"Апликације се учитавају…"</string>
+<string name="all_apps_no_search_results">"Није пронађена ниједна апликација за „<xliff:g id="QUERY">%1$s</xliff:g>“"</string>
+<string name="all_apps_search_market_message">"Идите на <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"Откажи"</string>
+<string name="quit">"Напусти"</string>
+<string name="quit_power_save_mode_message">"Изаћи из режима ултра штедње енергије?"</string>
+<string name="workspace_cancel_save_edit">"Одбаци"</string>
+<string name="workspace_confirm_save_edit">"Сачувај"</string>
+<string name="save_edit_message">"Сачувати ваше измене?"</string>
+<string name="default_app_title">"Додај"</string>
+<string name="battery_level">"Преостала батерија <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

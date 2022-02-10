@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"အပလီေကးရွင္း ထည့္သြင္းခ်င္းမလုပ္ရေသးပါ"</string>
+<string name="all_apps_search_bar_hint">"ေအပီပီမ်ား ရွာပါ"</string>
+<string name="all_apps_loading_message">"အက္ပ္မ်ား ေဆာင္ရြက္ေနသည္&#8230;"</string>
+<string name="all_apps_no_search_results">"လိုက္ဖက္ရန္ ေအပီပီ မေတြ ့ \"<xliff:g id="query" example="Android">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"သို ့သြားပါ <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"မလုပ္ပါ"</string>
+<string name="quit">"ထြက္သည္"</string>
+<string name="quit_power_save_mode_message">"အျမင့္ဆံုး ပါဝါေခြ်တာမုဒ္မွ ထြက္မလား။"</string>
+<string name="workspace_cancel_save_edit">"ျဖတ္ခ်မည္"</string>
+<string name="workspace_confirm_save_edit">"သိမ္းပါ"</string>
+<string name="save_edit_message">"ျပင္ခ်က္မ်ားကို သိမ္းမလား။"</string>
+<string name="default_app_title">"ေပါင္း"</string>
+<string name="battery_level">"လက္က်န္ ဘက္ထရီအား <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"لم يتم تثبيت التطبيق."</string>
+<string name="all_apps_search_bar_hint">"البحث في التطبيقات"</string>
+<string name="all_apps_loading_message">"جارٍ تحميل التطبيقات…"</string>
+<string name="all_apps_no_search_results">"لم يتم العثور على أي تطبيقات تتطابق مع \"<xliff:g id="QUERY">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"انتقل إلى <xliff:g id="query" example="Play Store">‪‎%1$s‬</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"إلغاء"</string>
+<string name="quit">"خروج"</string>
+<string name="quit_power_save_mode_message">"هل تريد الخروج من وضع توفير الطاقة الفائق؟"</string>
+<string name="workspace_cancel_save_edit">"إلغاء"</string>
+<string name="workspace_confirm_save_edit">"حفظ"</string>
+<string name="save_edit_message">"هل تريد حفظ التغييرات؟"</string>
+<string name="default_app_title">إضافة</string>
+<string name="battery_level">"مستوى شحن البطارية المتبقي <xliff:g id="number" example="5">‪‎%1$s‬</xliff:g>"</string>
+<string name="edit">تعديل</string>
+<string name="delete">"حذف"</string>
+</resources>

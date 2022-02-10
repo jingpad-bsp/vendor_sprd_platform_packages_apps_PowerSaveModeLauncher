@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"এপ ইনস্টোল তৌদে."</string>
+<string name="all_apps_search_bar_hint">"এপশীং থিয়ু"</string>
+<string name="all_apps_loading_message">"এপশীং লোদ তৌরি..."</string>
+<string name="all_apps_no_search_results">"এপশীং অমত্তা চানবা ওইদে \"<xliff:g id="query" example="Android">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"চৎলু দা <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"ককথৎলু"</string>
+<string name="quit">"থাদোকউ"</string>
+<string name="quit_power_save_mode_message">"অল্ট্রা পাৱর সেবিং মোদতগী থোকউ?"</string>
+<string name="workspace_cancel_save_edit">"লংথোকউ"</string>
+<string name="workspace_confirm_save_edit">"সেব তৌ"</string>
+<string name="save_edit_message">"নহাক্কি অহোংবশীং সেব তৌগদ্রা?"</string>
+<string name="default_app_title">"হাপচিল্লু"</string>
+<string name="battery_level">"লেমহৌরিবা বেট্টরি <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">অ্যাপ্লিকেশন ইনস্টল করা হয় না.</string>
+<string name="all_apps_search_bar_hint">"সন্ধান অ্যাপগুলি"</string>
+<string name="all_apps_loading_message">"অ্যাপগুলি লোড হচ্ছে..."</string>
+<string name="all_apps_no_search_results">"কোন অ্যাপ খুঁজে পাওয়া যায়নি "<xliff:g id="query" example="Android">%1$s</xliff:g>" মিলিয়ে"</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> এ যান"</string>
+<string name="workspace_cancel_quit_power_save_mode">বাতিল</string>
+<string name="quit">" প্রস্থান "</string>
+<string name="quit_power_save_mode_message">"চূড়ান্ত শক্তি সঞ্চয় মোড থেকে বেরিয়ে যাওয়া হবে কী?"</string>
+<string name="workspace_cancel_save_edit">অগ্রাহ্য করা</string>
+<string name="workspace_confirm_save_edit">সংরক্ষণ</string>
+<string name="save_edit_message">"আপনার পরিবর্তনগুলি সেভ করা হোক?"</string>
+<string name="default_app_title">"যোগ করুন"</string>
+<string name="battery_level">"অবশিষ্ট ব্যাটারী <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

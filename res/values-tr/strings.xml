@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"Uygulama yüklü değil."</string>
+<string name="all_apps_search_bar_hint">"Google Apps\'ta Ara"</string>
+<string name="all_apps_loading_message">"Uygulamalar yükleniyor…"</string>
+<string name="all_apps_no_search_results">"\"<xliff:g id="QUERY">%1$s</xliff:g>\" ile eşleşen uygulama bulunamadı"</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> konumuna gidin"</string>
+<string name="workspace_cancel_quit_power_save_mode">İptal</string>
+<string name="quit">çık</string>
+<string name="quit_power_save_mode_message">"Ultra güç tasarrufu modundan çıkılsın mı?"</string>
+<string name="workspace_cancel_save_edit">"Kapat"</string>
+<string name="workspace_confirm_save_edit">"Kaydet"</string>
+<string name="save_edit_message">"Değişiklikleriniz kaydedilsin mi?"</string>
+<string name="default_app_title">"Ekle"</string>
+<string name="battery_level">"Kalan Pil <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"Düzenle..."</string>
+<string name="delete">"Sil"</string>
+</resources>

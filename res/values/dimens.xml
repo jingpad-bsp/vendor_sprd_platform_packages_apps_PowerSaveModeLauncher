@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <dimen name="dynamic_grid_icon_drawable_padding">4dp</dimen>
+<!-- Container -->
+    <item name="container_margin" format="fraction" type="fraction">0%</item>
+    <dimen name="container_min_margin">0dp</dimen>
+    <dimen name="container_max_width">0dp</dimen>
+
+    <!-- Note: This needs to match the fixed insets for the search box. -->
+    <dimen name="container_bounds_inset">8dp</dimen>
+
+    <dimen name="container_fastscroll_thumb_min_width">5dp</dimen>
+    <dimen name="container_fastscroll_thumb_max_width">9dp</dimen>
+    <dimen name="container_fastscroll_thumb_height">72dp</dimen>
+    <dimen name="container_fastscroll_thumb_touch_inset">-24dp</dimen>
+    <dimen name="container_fastscroll_popup_size">72dp</dimen>
+    <dimen name="container_fastscroll_popup_text_size">48dp</dimen>
+
+<!-- All Apps -->
+    <dimen name="all_apps_button_scale_down">0dp</dimen>
+    <dimen name="all_apps_grid_view_start_margin">0dp</dimen>
+    <dimen name="all_apps_grid_section_y_offset">8dp</dimen>
+    <dimen name="all_apps_grid_section_text_size">24sp</dimen>
+    <dimen name="all_apps_search_bar_height">60dp</dimen>
+    <dimen name="all_apps_search_bar_prediction_bar_padding">8dp</dimen>
+    <dimen name="all_apps_icon_top_bottom_padding">8dp</dimen>
+    <dimen name="all_apps_icon_width_gap">24dp</dimen>
+    <!-- The top padding should account for the existing all_apps_list_top_bottom_padding -->
+    <dimen name="all_apps_prediction_icon_top_padding">8dp</dimen>
+    <dimen name="all_apps_prediction_icon_bottom_padding">18dp</dimen>
+    <dimen name="all_apps_list_top_bottom_padding">8dp</dimen>
+    <dimen name="all_apps_empty_search_message_top_offset">40dp</dimen>
+    <dimen name="all_apps_empty_search_bg_top_offset">144dp</dimen>
+    <dimen name="all_apps_background_canvas_width">700dp</dimen>
+    <dimen name="all_apps_background_canvas_height">475dp</dimen>
+
+    <!-- Search bar in All Apps -->
+    <dimen name="all_apps_header_max_elevation">4dp</dimen>
+    <dimen name="all_apps_header_scroll_to_elevation">16dp</dimen>
+    <dimen name="all_apps_header_shadow_height">6dp</dimen>
+
+    <!-- The overflow is used to create a bottom border, by drawing other three sides
+        outside the bounds. Ensure that:
+            all_apps_search_bar_bg_overflow < (-3 * all_apps_search_bar_divider_width)
+        -6dp is picked at random, any smaller value would do.
+    -->
+    <dimen name="all_apps_search_bar_bg_overflow">-6dp</dimen>
+    <dimen name="all_apps_search_bar_divider_width">1dp</dimen>
+
+    <!-- Default clock parameters -->
+    <dimen name="bottom_text_spacing_digital">-1dp</dimen>
+    <dimen name="widget_label_font_size">14sp</dimen>
+    <dimen name="widget_big_font_size">78dp</dimen>
+
+    <!-- The vertical margin between the date and the battery info. -->
+    <dimen name="date_battery_info_margin">6dp</dimen>
+
+    <!-- Width of the sliding KeyguardSecurityContainer (includes 2x keyguard_security_view_margin) -->
+    <dimen name="launcher_security_width">320dp</dimen>
+
+    <!-- Height of the sliding KeyguardSecurityContainer (includes 2x keyguard_security_view_margin) -->
+    <dimen name="launcher_security_height">400dp</dimen>
+
+    <dimen name="launcher_status_view_top">60dp</dimen>
+    <dimen name="grid_view_top">60dp</dimen>
+    <dimen name="grid_view_line_space">20dp</dimen>
+    <dimen name="grid_items_padding">8dp</dimen>
+
+    <dimen name="power_save_workspace_margin_vertical">15dp</dimen>
+    <dimen name="power_save_workspace_margin_horizontal">20dp</dimen>
+
+    <dimen name="text_view_top_margin">3dp</dimen>
+    <dimen name="delete_image_end_margin">18dp</dimen>
+</resources>

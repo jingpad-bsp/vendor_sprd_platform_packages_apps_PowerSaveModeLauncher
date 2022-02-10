@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="activity_not_found">"應用程式未安裝。"</string>
+    <string name="all_apps_search_bar_hint">"搜尋應用程式"</string>
+    <string name="all_apps_loading_message">"載入應用程式中&#8230;"</string>
+    <string name="all_apps_no_search_results">"沒有相符的應用程式\"<xliff:g id="query" example="Android">%1$s</xliff:g>\""</string>
+    <string name="all_apps_search_market_message">"前往<xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+    <string name="workspace_cancel_quit_power_save_mode">取消</string>
+    <string name="quit">"退出"</string>
+    <string name="quit_power_save_mode_message">"要退出超級省電模式嗎？"</string>
+    <string name="workspace_cancel_save_edit">"捨棄"</string>
+    <string name="workspace_confirm_save_edit">最愛</string>
+    <string name="save_edit_message">"要儲存修改嗎？"</string>
+    <string name="default_app_title">"新增"</string>
+    <string name="battery_level">"剩餘電量<xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+    <string name="edit">"編輯"</string>
+    <string name="delete">"捨棄"</string>
+</resources>

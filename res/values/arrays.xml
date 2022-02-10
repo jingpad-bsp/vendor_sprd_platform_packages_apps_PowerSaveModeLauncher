@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Add customized arrays -->
+
+    <!--Add for hide app package name -->
+    <string-array name="remove_package_name" translatable="false">
+        <item>com.android.settings</item>
+        <item>com.android.quicksearchbox</item>
+        <item>com.sprd.generalsecurity</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"ॲप इन्स्टॉल करुंक ना."</string>
+<string name="all_apps_search_bar_hint">"ॲप सोद"</string>
+<string name="all_apps_loading_message">"ॲपा लोडिंग..."</string>
+<string name="all_apps_no_search_results">"जुळपी ॲप सापडूंक ना \"<xliff:g id="query" example="Android">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> हांगा वच"</string>
+<string name="workspace_cancel_quit_power_save_mode">"रद्द"</string>
+<string name="quit">"भायर सरात"</string>
+<string name="quit_power_save_mode_message">"अल्ट्रा पावर सेव्हींग मोडांतल्यान भायर सरूं?"</string>
+<string name="workspace_cancel_save_edit">"काडून वडयात"</string>
+<string name="workspace_confirm_save_edit">"सेव करात"</string>
+<string name="save_edit_message">"तुमचे बदल करूं?"</string>
+<string name="default_app_title">"अदीक"</string>
+<string name="battery_level">"<xliff:g id="number" example="5">%1$s</xliff:g> उरिल्ली बॅटरी"</string>
+</resources>

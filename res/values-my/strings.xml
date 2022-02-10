@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"အပလီကေးရှင်း ထည့်သွင်းခြင်းမလုပ်ရသေးပါ"</string>
+<string name="all_apps_search_bar_hint">"အက်ပ်များကို ရှာပါ"</string>
+<string name="all_apps_loading_message">"အက်ပ်များကို ဖွင့်နေသည်…"</string>
+<string name="all_apps_no_search_results">"\"<xliff:g id="query" example="Android">%1$s</xliff:g>\" နှင့် ကိုက်ညီသည့် မည်သည့်အက်ပ်မျှ မတွေ့ပါ"</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> သို့ သွားပါ"</string>
+<string name="workspace_cancel_quit_power_save_mode">"ပယ်ဖျက်ပါ"</string>
+<string name="quit">"ထွက်သည်"</string>
+<string name="quit_power_save_mode_message">"အလွန်တရာ ပါဝါချွေတာမုဒ်မှ ထွက်မလား။"</string>
+<string name="workspace_cancel_save_edit">"ဖြုတ်ချမည်"</string>
+<string name="workspace_confirm_save_edit">"သိမ်းပါ"</string>
+<string name="save_edit_message">"သင့်ပြင်ချက်များကို သိမ်းမလား။"</string>
+<string name="default_app_title">"ပေါင်း"</string>
+<string name="battery_level">"လက်ကျန်ဘက်ထရီ <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"တည်းဖြတ်သည်"</string>
+<string name="delete">"ပယ်ဖျက်သည်"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">A app non está instalada.</string>
+<string name="all_apps_search_bar_hint">Buscar apps</string>
+<string name="all_apps_loading_message">"Cargando aplicacións…"</string>
+<string name="all_apps_no_search_results">"Non se atoparon aplicacións que coincidan con \"<xliff:g id="QUERY">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"Ir a <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">cancelar</string>
+<string name="quit">"Saír"</string>
+<string name="quit_power_save_mode_message">"Quere saír do modo de ultra aforro de enerxía?"</string>
+<string name="workspace_cancel_save_edit">Eliminar</string>
+<string name="workspace_confirm_save_edit">Gardar</string>
+<string name="save_edit_message">"Quere gardar os cambios?"</string>
+<string name="default_app_title">Engadir</string>
+<string name="battery_level">"Tempo de batería restante <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"Editar"</string>
+<string name="delete">Borrar</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"ଆପ୍ ଇନଷ୍ଟଲ୍ ହୋଇନାହିଁ ।"</string>
+<string name="all_apps_search_bar_hint">"ସର୍ଚ୍ଚ ଆପ୍ ଗୁଡ଼ିକ"</string>
+<string name="all_apps_loading_message">"&#8230; ଆପ୍ ଗୁଡ଼ିକ ଲୋଡ୍ କରୁଛି"</string>
+<string name="all_apps_no_search_results">"\"<xliff:g id="query" example="Android">%1$s</xliff:g>\"ମେଳ ଖାଉଥିବା କୌଣସି ଆପ୍ ମିଳିଲା ନାହିଁ"</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g>କୁ ଯାଆନ୍ତୁ"</string>
+<string name="workspace_cancel_quit_power_save_mode">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="quit">"ତ୍ୟାଗ କରନ୍ତୁ"</string>
+<string name="quit_power_save_mode_message">"ଅଲ୍ଟ୍ରା ପାୱାର ସେଭିଂଗ ମୋଡ ରୁ ବାହାରକୁ ଯାଆନ୍ତୁ?"</string>
+<string name="workspace_cancel_save_edit">"ବର୍ଜନ"</string>
+<string name="workspace_confirm_save_edit">"ସଞ୍ଚୟ କରନ୍ତୁ"</string>
+<string name="save_edit_message">"ପରିବର୍ତ୍ତନ କୁ ସେଭ କର?"</string>
+<string name="default_app_title">"ଯୋଗ କରନ୍ତୁ"</string>
+<string name="battery_level">"<xliff:g id="number" example="5">%1$s</xliff:g> ବାକିଥିବା ବ୍ୟାଟେରି"</string>
+<string name="edit">"ସଂଶୋଧନ କରନ୍ତୁ"</string>
+<string name="delete">"କାଟ"</string>
+</resources>

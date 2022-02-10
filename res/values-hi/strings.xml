@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"एप्‍लिकेशन इंस्‍टॉल नहीं है."</string>
+<string name="all_apps_search_bar_hint">"Apps खोजें"</string>
+<string name="all_apps_loading_message">"ऐप्लिकेशन लोड हो रहे हैं…"</string>
+<string name="all_apps_no_search_results">"\"<xliff:g id="QUERY">%1$s</xliff:g>\" से मिलता-जुलता कोई ऐप्लिकेशन नहीं मिला"</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> पर जाएँ"</string>
+<string name="workspace_cancel_quit_power_save_mode">निरस्त करें</string>
+<string name="quit">"बाहर"</string>
+<string name="quit_power_save_mode_message">"अत्यधिक पावर बचत मोड से बाहर निकलें?"</string>
+<string name="workspace_cancel_save_edit">"छोड़ें"</string>
+<string name="workspace_confirm_save_edit">"सहेजें"</string>
+<string name="save_edit_message">"बदलाव सहेजें?"</string>
+<string name="default_app_title">"जोड़ें"</string>
+<string name="battery_level">"शेष बैटरी <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">संपादन</string>
+<string name="delete">"हटाएं"</string>
+</resources>

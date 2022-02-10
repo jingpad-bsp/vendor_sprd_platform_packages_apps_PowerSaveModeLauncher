@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"Sovellusta ei ole asennettu."</string>
+<string name="all_apps_search_bar_hint">"Sovellushaku"</string>
+<string name="all_apps_loading_message">"Ladataan sovelluksia&#8230;"</string>
+<string name="all_apps_no_search_results">"Ei löytynyt sovelluksia, jotka vastaavat: \"<xliff:g id="query" example="Android">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"Siirry kohtaan <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"Peruuta"</string>
+<string name="quit">"Lopeta"</string>
+<string name="workspace_cancel_save_edit">"Hylkää"</string>
+<string name="workspace_confirm_save_edit">"Tallenna"</string>
+<string name="save_edit_message">"Tallennetaanko muutokset?"</string>
+<string name="default_app_title">"Lisää"</string>
+<string name="battery_level">"Akkua jäljellä <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"Muokkaa"</string>
+<string name="delete">"Poista"</string>
+<string name="quit_power_save_mode_message">"Lopetetaanko Ultra-virransäästötila?"</string>
+</resources>

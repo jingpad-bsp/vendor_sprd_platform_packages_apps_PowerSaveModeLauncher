@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"ایپ انسٹال نہیں ہے۔"</string>
+<string name="all_apps_search_bar_hint">"ایپس تلاش کریں"</string>
+<string name="all_apps_loading_message">"ایپس لوڈ ہورہے ہیں۔۔۔"</string>
+<string name="all_apps_no_search_results">" \"<xliff:g id="query" example="Android">%1$s</xliff:g>\"سے مماثلت رکھنے والے کوئی ایپس نہی ملے"</string>
+<string name="all_apps_search_market_message">"جائيں<xliff:g id="query" example="Play Store">%1$s</xliff:g>پر"</string>
+<string name="workspace_cancel_quit_power_save_mode">"منسوخ کریں"</string>
+<string name="quit">ترک کریں</string>
+<string name="quit_power_save_mode_message">"کیا الٹرا پاور سیونگ موڈ سے باہر نکلنا ہے؟"</string>
+<string name="workspace_cancel_save_edit">"مسترد کریں"</string>
+<string name="workspace_confirm_save_edit">"محفوظ کریں"</string>
+<string name="save_edit_message">"کیا آپ کے تبدیلیوں کو محفوظ کرنا ہے؟"</string>
+<string name="default_app_title">"شامل کریں"</string>
+<string name="battery_level">"باقی بچی ہوئی بیٹری <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

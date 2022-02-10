@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="649227358658669779">"PowerSaveModeLauncher"</string>
+
+    <string name="activity_not_found" msgid="8071924732094499514">"未安装该应用。"</string>
+    <string name="all_apps_search_bar_hint" msgid="6705987535534678581">"搜索应用"</string>
+    <string name="all_apps_loading_message" msgid="7557140873644765180">"正在加载应用…"</string>
+    <string name="all_apps_no_search_results" msgid="6332185285860416787">"未找到与“<xliff:g id="QUERY">%1$s</xliff:g>”相符的应用"</string>
+    <string name="all_apps_search_market_message" msgid="5470761048755751471">"转到 <xliff:g id="QUERY">%1$s</xliff:g>"</string>
+
+    <string name="workspace_cancel_quit_power_save_mode">"取消"</string>
+    <string name="quit">"退出"</string>
+    <string name="quit_power_save_mode_message">"是否退出超级省电模式？"</string>
+
+    <string name="workspace_cancel_save_edit">"放弃"</string>
+    <string name="workspace_confirm_save_edit">"保存"</string>
+    <string name="save_edit_message">"是否保存修改？"</string>
+
+    <string name="default_app_title">"添加"</string>
+    <string name="battery_level">"剩余电量 <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+
+    <string name="edit">"编辑"</string>
+    <string name="delete">"删除"</string>
+</resources>

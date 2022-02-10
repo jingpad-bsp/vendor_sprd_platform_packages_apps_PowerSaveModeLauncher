@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"एप्पआ इनस्टल खालामाखै"</string>
+<string name="all_apps_search_bar_hint">"एप्सखौ नागिर"</string>
+<string name="all_apps_loading_message">"एपफोरा लड जागासिनो..."</string>
+<string name="all_apps_no_search_results">"मोनसेबो गोरोबनाय एप्स मोनाखै "<xliff:g id="query" example="Android">%1$s</xliff:g>""</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> आव थां"</string>
+<string name="workspace_cancel_quit_power_save_mode">"केन्चेल"</string>
+<string name="quit">"कुवाइट"</string>
+<string name="quit_power_save_mode_message">"आलट्रा मोब्लिब गोहो दोनथुमग्रा मदनिफ्राय ओंखारसै?"</string>
+<string name="workspace_cancel_save_edit">"ऐंगार"</string>
+<string name="workspace_confirm_save_edit">"सेभ"</string>
+<string name="save_edit_message">"नोंनि सोलायथायफोरखौ रैखाथिनो?"</string>
+<string name="default_app_title">"दाजाब"</string>
+<string name="battery_level">"थाबावनाय बेतारि <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

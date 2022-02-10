@@ -1,0 +1,5 @@
+<resources>
+    <!--Add for Grid View-->
+    <integer name="grid_view_column_num">3</integer>
+    <string name="launcher3_package_name" translatable="false">com.android.launcher3</string>
+</resources>

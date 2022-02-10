@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"ಅಪ್ಲಿಕೇಶನ್ ಅಳವಡಿಸಿಲ್ಲ."</string>
+<string name="all_apps_search_bar_hint">"ಅಪ್ಲಿಕೇಶನ್ಗಳನ್ನು ಹುಡುಕಿ"</string>
+<string name="all_apps_loading_message">"ಆ್ಯಪ್  ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ ..."</string>
+<string name="all_apps_no_search_results">""<xliff:g id="query" example="Android">%1$s</xliff:g>" ಈ ಆ್ಯಪ್‌ಗೆ ಯಾವುದೇ ಹೊಂದಾಣಿಕೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ"</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g>ಗೆ ಹೋಗಿ"</string>
+<string name="workspace_cancel_quit_power_save_mode">"ರದ್ದು"</string>
+<string name="quit">"ಬಿಟ್ಟುಬಿಡಿ"</string>
+<string name="quit_power_save_mode_message">"ಅಲ್ಟ್ರಾ ವಿದ್ಯುತ್ ಉಳಿತಾಯ ಮೋಡ್‌ನಿಂದ ನಿರ್ಗಮಿಸಬೇಕೇ?"</string>
+<string name="workspace_cancel_save_edit">"ತ್ಯಜಿಸಿ"</string>
+<string name="workspace_confirm_save_edit">"ಉಳಿಸಿ"</string>
+<string name="save_edit_message">"ನೀವು ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಲು ಬಯಸುವಿರಾ?"</string>
+<string name="default_app_title">"ಸೇರಿಸು"</string>
+<string name="battery_level">"ಉಳಿದಿರುವ ಬ್ಯಾಟರಿ <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

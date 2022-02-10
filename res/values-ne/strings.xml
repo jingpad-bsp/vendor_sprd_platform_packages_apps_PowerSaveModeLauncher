@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"अनुप्रयोग स्थापित भएन।"</string>
+<string name="all_apps_search_bar_hint">"एप्स खोजि" </string>
+<string name="all_apps_loading_message">"एपहरू लोड गर्दै&#8230;"</string>
+<string name="all_apps_no_search_results">"\"<xliff:g id="query" example="Android">%1$s</xliff:g>\" सँग मेल खाने कुनै एप फेला परेन"</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> मा जानुहोस्"</string>
+<string name="workspace_cancel_quit_power_save_mode">"रद्द गर्नुहोस्"</string>
+<string name="quit">"अन्त्य गर्नुहोस्"</string>
+<string name="quit_power_save_mode_message">"अल्ट्रा पावर बचत मोडबाट आहिर निस्कने हो?"</string>
+<string name="workspace_cancel_save_edit">"त्याग्नुहोस्"</string>
+<string name="workspace_confirm_save_edit">"सुरक्षित गर्नुहोस्"</string>
+<string name="save_edit_message">"तपाईंका परिवर्तनहरूलाई सुरक्षित गर्ने हो?"</string>
+<string name="default_app_title">"थप्नुहोस्"</string>
+<string name="battery_level">"<xliff:g id="number" example="5">%1$s</xliff:g> बाँकी रहेको ब्याट्री"</string>
+<string name="edit">"सम्पादन गर्नुहोस्"</string>
+<string name="delete">"मेट्नुहोस्"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"යෙදුම ස්ථාපනය කර නැත."</string>
+<string name="all_apps_search_bar_hint">"යෙදුම් සෙවීම"</string>
+<string name="all_apps_loading_message">"යෙදුම් ප්‍රවේශනය වේ..."</string>
+<string name="all_apps_no_search_results">"ගැලපෙන යෙදුම් සොයා නොගන්නා ලදී \"<xliff:g id="query" example="Android">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"වෙත යන්න <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"අවලංගු කරන්න"</string>
+<string name="quit">"හැර යන්න"</string>
+<string name="quit_power_save_mode_message">"වැඩිපුර බලය සුරකීමේ ප්‍රකාරයෙන් ඉවත්වෙන්න?"</string>
+<string name="workspace_cancel_save_edit">"ඉවත ලන්න"</string>
+<string name="workspace_confirm_save_edit">"සුරකින්න"</string>
+<string name="save_edit_message">"ඔබේ වෙනස්කම් සුරකින්න?"</string>
+<string name="default_app_title">"එක් කරන්න"</string>
+<string name="battery_level">"බැටරියේ ඉතිරිය <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">"සංස්කරණය"</string>
+<string name="delete">"මකන්න"</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"اطلاق تنصيب شده ڪونهي."</string>
+<string name="all_apps_search_bar_hint">"اطلاقات جي ڳولا ڪريو"</string>
+<string name="all_apps_loading_message">"اطلاقات لوڊ ٿي رهيا آهن..."</string>
+<string name="all_apps_no_search_results">"<xliff:g id="query" example="Android">%1$s</xliff:g> ڪي به مشابهتي اطلاقات نه لڌا"</string>
+<string name="all_apps_search_market_message">"<xliff:g id="query" example="Play Store">%1$s</xliff:g> تي وڃو"</string>
+<string name="workspace_cancel_quit_power_save_mode">" رد ڪريو"</string>
+<string name="quit">"ترڪ ڪريو"</string>
+<string name="quit_power_save_mode_message">"انتهائي بچت ڪندڙ طرز مان نڪرڻ ٿا چاهيو؟"</string>
+<string name="workspace_cancel_save_edit">" رد ڪريو"</string>
+<string name="workspace_confirm_save_edit">" محفوظ ڪريو"</string>
+<string name="save_edit_message">"پنھنجيون تبديليون محفوظ ڪريو"</string>
+<string name="default_app_title">" شامل ڪريو"</string>
+<string name="battery_level">"بچيل بيٽري <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+</resources>

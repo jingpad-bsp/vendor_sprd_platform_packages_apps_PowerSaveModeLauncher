@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="activity_not_found">"Aplikasi tidak dipasang."</string>
+<string name="all_apps_search_bar_hint">"Telusuri Apps"</string>
+<string name="all_apps_loading_message">"Memuat aplikasi…"</string>
+<string name="all_apps_no_search_results">"Tidak ditemukan aplikasi yang cocok dengan \"<xliff:g id="QUERY">%1$s</xliff:g>\""</string>
+<string name="all_apps_search_market_message">"Buka <xliff:g id="query" example="Play Store">%1$s</xliff:g>"</string>
+<string name="workspace_cancel_quit_power_save_mode">"Batal"</string>
+<string name="quit">"Keluar"</string>
+<string name="quit_power_save_mode_message">"Keluar dari mode penghematan daya ultra?"</string>
+<string name="workspace_cancel_save_edit">"Buang"</string>
+<string name="workspace_confirm_save_edit">Simpan</string>
+<string name="save_edit_message">"Simpan perubahan?"</string>
+<string name="default_app_title">"Tambahkan"</string>
+<string name="battery_level">"Daya Baterai yang Tersisa <xliff:g id="number" example="5">%1$s</xliff:g>"</string>
+<string name="edit">Sunting</string>
+<string name="delete">Hapus</string>
+</resources>

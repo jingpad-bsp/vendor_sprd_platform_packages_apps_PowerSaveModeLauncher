@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.sprd.powersavemodelauncher.LauncherStatusView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/launcher_status_view"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal|top">
+    <LinearLayout
+        android:id="@+id/launcher_clock_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|top"
+        android:orientation="vertical" >
+        <TextClock
+            android:id="@+id/clock_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/clock_white"
+            android:singleLine="true"
+            style="@style/clock_big_thin"
+            android:format12Hour="@string/launcher_widget_12_hours_format"
+            android:format24Hour="@string/launcher_widget_24_hours_format"
+            android:layout_marginBottom="@dimen/bottom_text_spacing_digital" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+            <TextClock android:id="@+id/date_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/clock_white"
+                style="@style/clock_label"
+                android:textAllCaps="true"
+                android:letterSpacing="0.15"
+                android:gravity="center"
+                />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/battery_info"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/date_battery_info_margin"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/clock_gray"
+            android:textSize="@dimen/widget_label_font_size"
+            android:letterSpacing="0.05"
+            android:ellipsize="marquee"
+            android:singleLine="true" />
+
+    </LinearLayout>
+</com.sprd.powersavemodelauncher.LauncherStatusView>
